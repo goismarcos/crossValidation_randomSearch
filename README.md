@@ -1,4 +1,4 @@
-# técnica de validação cruzada estratificada e seleção de hiperparâmetros com Randon Search
+# Técnica de validação cruzada estratificada e seleção de hiperparâmetros com Randon Search
 
 ## Sobre a base:
 
