@@ -1,4 +1,4 @@
-# Abordagem simples para técnica de validação cruzada e seleção de hiperparâmetros para o desafio do módulo 3 do bootCamp de engenheiro de ML na XP Educação
+# técnica de validação cruzada estratificada e seleção de hiperparâmetros com Randon Search
 
 ## Sobre a base:
 
