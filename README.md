@@ -2,7 +2,7 @@
 
 ## :hammer: Objetivo do desafio:
 
-**Aplicação nos modelos SVM e Randon Forest, técnica de validação de dados para a diminuição de viés (abordagem simples cross validation) e aplicação de Random Search para uma melhor sintonia dos hiperparâmetros dos modelos, utilizando como métrica o F-score.**
+**Aplicação nos modelos SVM e Randon Forest, técnica de validação de dados para a diminuição de viés (abordagem simples cross validation stratified) e aplicação de Random Search para uma melhor sintonia dos hiperparâmetros dos modelos, utilizando como métrica o F-score.**
 
 ## Sobre a base:
 
